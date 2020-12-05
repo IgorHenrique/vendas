@@ -1,5 +1,6 @@
 br\com\vendas\Controllers\ProdutoController.class
 br\com\vendas\VendasApplication.class
+br\com\vendas\Config\WebConfig.class
 br\com\vendas\Controllers\Dto\InformacoesPedidoDTO.class
 br\com\vendas\Domain\Entity\Pedido.class
 br\com\vendas\Controllers\Dto\InformacaoItemPedidoDTO.class

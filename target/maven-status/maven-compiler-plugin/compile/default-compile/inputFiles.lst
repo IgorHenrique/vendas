@@ -10,6 +10,7 @@ C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\Domain\Entity\Ped
 C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\Controllers\Dto\InformacaoItemPedidoDTO.java
 C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\Controllers\ClientesController.java
 C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\VendasApplication.java
+C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\Config\WebConfig.java
 C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\Domain\Repositorys\ClienteRepository.java
 C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\Domain\Entity\Cliente.java
 C:\Users\Igorh\IdeaProjects\Vendas\src\main\java\br\com\vendas\Controllers\PedidoController.java
